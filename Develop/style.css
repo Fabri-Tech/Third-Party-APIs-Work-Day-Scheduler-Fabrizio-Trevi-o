@@ -3,6 +3,22 @@ body {
   font-size: 16px;
 }
 
+header {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  letter-spacing: 2px;
+}
+
+#clock {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 30px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+}
+
+
 textarea {
   background: transparent;
   border: none;
@@ -33,17 +49,17 @@ textarea {
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: #d40e0e;
   color: white;
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: rgb(96, 16, 116);
   color: white;
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: #31de12;
   color: white;
 }
 
@@ -60,3 +76,7 @@ textarea {
   transition: all 0.3s ease-in-out;
 }
 
+#clock {
+  font-size: 40px;
+ 
+ }

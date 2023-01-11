@@ -7,7 +7,8 @@ function updateClock() {
     const time = dayjs().format('HH:mm:ss'); //you can change to the format you want
     const date = dayjs().format('MMMM D YYYY'); //you can change to the format you want
     clock.innerHTML = `${date},${time}`; // this will retrieve the date and time and show it in the webpage
-}
+    
+  }
 // this function will update the clock 1 second at a time 
 setInterval(updateClock, 1000); 
 
