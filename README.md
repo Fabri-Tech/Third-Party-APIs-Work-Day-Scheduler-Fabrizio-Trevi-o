@@ -2,11 +2,11 @@
 
 ## Table of contents 🚀
 
-* [Introduction](#introduction-💣)
-* [Requirements](#requirements-🧑‍💻)
-* [How to use it](#how-to-use-it-🚩)
-* [Feedback](#feedback-💌)
-* [Deployed Links](#deployed-links-✏️)
+* [Introduction 💣](#introduction-💣)
+* [Requirements 🧑‍💻](#requirements-🧑‍💻)
+* [How to use it 🚩](#how-to-use-it-🚩)
+* [Feedback 💌](#feedback-💌)
+* [Deployed links ✏️](#deployed-links-✏️)
 * [Credits](#credits)
 
 ## Introduction 💣
@@ -39,7 +39,7 @@ Thank you for choosing our planner, we hope it helps you make the most of your t
 
 ## Feedback 💌
 
-We would love to hear your feedback and suggestions for how we can improve the planner. Please don't hesitate to reach out at contact@personalcalendar.com if you have any questions or concerns
+We would love to hear your feedback and suggestions for how we can improve the planner. Please don't hesitate to reach out at contact@personal.calendar.com if you have any questions or concerns
 
 ## Deployed links ✏️
 
