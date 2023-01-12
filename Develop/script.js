@@ -37,7 +37,7 @@ window.addEventListener("load", function() {
 
 // change the color of the blocks depending on the hour
 const rows = document.querySelectorAll('.row')
-function updateRowColors(){  //this function will generate the code used to change the colors depending on the hour+
+function updateRowColors(){  //this function will generate the code used to change the colors depending on the hour
   const currentTime = new Date().getHours();
   rows.forEach(row => {
     const hour =
