@@ -45,7 +45,7 @@ We would love to hear your feedback and suggestions for how we can improve the p
 
 ## Deployed links
 
-* [Github Pages]()
+* [Github Pages](https://fabri-tech.github.io/Third-Party-APIs-Work-Day-Scheduler-Fabrizio-Trevi-o/)
 
 * [Github Repository](https://github.com/Fabri-Tech?tab=repositories)
 

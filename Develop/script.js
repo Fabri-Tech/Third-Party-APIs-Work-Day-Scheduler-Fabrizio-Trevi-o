@@ -1,17 +1,18 @@
+
 // this constant was obtained from the HTML and will show the date and time in the webpage
 const clock = document.getElementById("clock")
 
 
 //this function will display the clock in the webpage
 function updateClock() {
+    const weekDay = dayjs().format('dddd') // this will show the day of the week
     const time = dayjs().format('HH:mm:ss'); //you can change to the format you want
     const date = dayjs().format('MMMM D YYYY'); //you can change to the format you want
-    clock.innerHTML = `${date},${time}`; // this will retrieve the date and time and show it in the webpage
+    clock.innerHTML = `${weekDay}, ${date}<br>${time}`; // this will retrieve the date and time and show it in the webpage ,the <br> was used to insert a line break
     
   }
 // this function will update the clock 1 second at a time 
 setInterval(updateClock, 1000); 
-
 
 
 // save the data to local storage when the icon "save" is clicked
